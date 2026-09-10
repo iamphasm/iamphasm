@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-<!--
+
+### :construction: I’m currently working on:
+
+- Self-hosted personal productivity suite: with bookmarks, tasks, notes, calendar, documents, RSS reader, webtools & messaging. (Next.js 14 + Supabase + shadcn/ui)
+- [OSINTel Toolkit](https://github.com/iamphasm/OSINTel-toolkit):  selfhosted osint toolkit with telegram scraper, link scraper, metadata extractor, image reverse search, shadowmap(geosint) (Python/Java)
+- [Puffen.org](https://www.puffen.org): a webspace with alot of different useless tools ive made. 
+
+### 🔭 Other tools:
+[Breacher](https://github.com/iamphasm/breacher) : is a command-line tool for looking up breached credentials using the BreachDirectory API on RapidAPI. It automatically attempts to crack SHA-1 hashes using weakpass.com for each result.
+ 
+ <!--
 **iamphasm/iamphasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
